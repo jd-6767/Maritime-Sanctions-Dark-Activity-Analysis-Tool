@@ -1,5 +1,6 @@
 # Maritime-Sanctions-Dark-Activity-Analysis-Tool 
-MARITIME SANCTIONS & DARK ACTIVITY ANALYSIS TOOL
+
+<img width="1109" height="731" alt="image" src="https://github.com/user-attachments/assets/4e91dc7f-a24a-476b-9568-c70f9b0f7a6e" />
 
 I built this project to simulate how compliance teams at banks, maritime insurers, and commodity trading houses screen vessels for sanctions exposure, "dark activity" (AIS transponder gaps), and complex beneficial ownership risk. It assesses risks based of a point system.
 
